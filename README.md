@@ -80,7 +80,7 @@ random_sample = pd.read_csv("Final_output.csv", index=False, sep=';')
 
 5. Run our .py file to connect the model to the chatbot.
 
-## 🎨 Chatbot Screenshots
+## 📷 Chatbot Screenshots
 
 <img src="https://github.com/AnasElbattra/News-Understanding-NLP/assets/75434006/2fcde26d-2b5d-48e0-a205-bbc551097fe2" alt="Bias" width="400"/>
 <img src="https://github.com/AnasElbattra/News-Understanding-NLP/assets/75434006/2fcde26d-2b5d-48e0-a205-bbc551097fe2" alt="Bias" width="400"/>
