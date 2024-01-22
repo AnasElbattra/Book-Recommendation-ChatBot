@@ -2,7 +2,7 @@ Certainly! Here's a revised version of the README with a different style:
 
 # Chatbook: Your Personal Book Companion 📚🤖
 
-<img src="https://github.com/AnasElbattra/News-Understanding-NLP/assets/75434006/2fcde26d-2b5d-48e0-a205-bbc551097fe2" alt="Bias" width="200"/>
+<img src="https://github.com/AnasElbattra/Book-Recommendation-ChatBot/assets/75434006/2914dbe4-3824-4e91-a19a-97555d2945a8" alt="Bias" width="200"/>
 
 ## 🚀 Introduction
 
@@ -82,6 +82,6 @@ random_sample = pd.read_csv("Final_output.csv", index=False, sep=';')
 
 ## 📷 Chatbot Screenshots
 
-<img src="https://github.com/AnasElbattra/News-Understanding-NLP/assets/75434006/2fcde26d-2b5d-48e0-a205-bbc551097fe2" alt="Bias" width="400"/>
-<img src="https://github.com/AnasElbattra/News-Understanding-NLP/assets/75434006/2fcde26d-2b5d-48e0-a205-bbc551097fe2" alt="Bias" width="400"/>
-<img src="https://github.com/AnasElbattra/News-Understanding-NLP/assets/75434006/2fcde26d-2b5d-48e0-a205-bbc551097fe2" alt="Bias" width="400"/>
+<img src="https://github.com/AnasElbattra/Book-Recommendation-ChatBot/assets/75434006/10ce96f1-ab2d-417b-a597-f22d762d9b7f" alt="Bias" width="330"/>
+<img src="https://github.com/AnasElbattra/Book-Recommendation-ChatBot/assets/75434006/d260ad41-d32a-48d5-b011-59a86e64d66a" alt="Bias" width="330"/>
+<img src="https://github.com/AnasElbattra/Book-Recommendation-ChatBot/assets/75434006/f6d5d6cf-8608-44c5-ab4f-4b55c12806e7" alt="Bias" width="330"/>
