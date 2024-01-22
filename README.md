@@ -1,5 +1,3 @@
-Certainly! Here's a revised version of the README with a different style:
-
 # Chatbook: Your Personal Book Companion 📚🤖
 
 <img src="https://github.com/AnasElbattra/Book-Recommendation-ChatBot/assets/75434006/2914dbe4-3824-4e91-a19a-97555d2945a8" alt="Bias" width="200"/>
